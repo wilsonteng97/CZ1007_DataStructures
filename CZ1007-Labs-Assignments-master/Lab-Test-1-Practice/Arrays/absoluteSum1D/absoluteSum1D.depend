@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1538839680 source:c:\users\adithya\documents\github\cz1007-labs-assignments\lab test 1 practice\arrays\absolutesum1d\main.c
+	<stdio.h>
+	<math.h>
+

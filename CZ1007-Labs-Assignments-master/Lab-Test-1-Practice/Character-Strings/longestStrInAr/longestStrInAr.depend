@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1539168187 source:/Users/adithya/Documents/GitHub/CZ1007-Labs/Lab-Test-1-Practice/Character-Strings/longestStrInAr/main.c
+	<stdio.h>
+	<string.h>
+

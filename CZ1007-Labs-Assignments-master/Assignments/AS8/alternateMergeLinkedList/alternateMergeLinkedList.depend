@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1540300545 source:/Users/adithya/Documents/GitHub/CZ1007-Labs/Assignments/Week9/alternateMergeLinkedList/main.c
+	<stdio.h>
+	<stdlib.h>
+

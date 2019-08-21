@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1551760503 source:c:\users\wilso\onedrive\desktop\cz1007_datastructures\week_4-character strings\week4practice questions–characterstrings\15maxchartofront\main.c
+	<stdio.h>
+	<string.h>
+

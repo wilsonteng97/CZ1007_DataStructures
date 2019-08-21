@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1550665791 source:c:\users\wilso\onedrive\desktop\cz1007_datastructures\week_5-structures\assignment5\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+

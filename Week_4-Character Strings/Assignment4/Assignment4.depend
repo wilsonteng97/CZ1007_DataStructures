@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1550049242 source:c:\users\wilso\onedrive\desktop\cz1007_datastructures\week_4-character strings\assignment4\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+

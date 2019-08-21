@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1551860692 source:c:\users\wilso\onedrive\desktop\cz1007_datastructures\week_5-structures\week5practicequestions_structures\5student\main.c
+	<stdio.h>
+	<string.h>
+

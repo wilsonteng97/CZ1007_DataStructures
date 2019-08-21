@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1537616696 source:c:\users\adithya\documents\github\cz1007-labs-assignments\assignments\week 6\employee\main.c
+	<stdio.h>
+	<string.h>
+

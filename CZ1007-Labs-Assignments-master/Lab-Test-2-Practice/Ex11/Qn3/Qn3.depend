@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1542343408 source:/Users/adithya/Documents/GitHub/CZ1007-Labs/Lab-Test-2-Practice/Ex11/Qn3/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

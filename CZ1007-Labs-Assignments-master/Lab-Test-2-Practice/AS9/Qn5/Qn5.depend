@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1542516287 source:/Users/adithya/Documents/GitHub/CZ1007-Labs/Lab-Test-2-Practice/AS9/Qn5/main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+

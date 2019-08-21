@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1540726878 source:/Users/adithya/Documents/GitHub/CZ1007-Labs/Assignments/AS9/Qn1/main.c
+	<stdio.h>
+	<stdlib.h>
+

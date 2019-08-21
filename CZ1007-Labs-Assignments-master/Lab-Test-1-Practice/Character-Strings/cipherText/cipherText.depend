@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1538892952 source:c:\users\adithya\documents\github\cz1007-labs-assignments\lab test 1 practice\character strings\ciphertext\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
